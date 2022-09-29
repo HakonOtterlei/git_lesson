@@ -15,6 +15,7 @@ Y = rnorm(500)
 
 
 
+## An alternative way 
 
-## Crazy stuff
+
 ## New feature - adding something 
