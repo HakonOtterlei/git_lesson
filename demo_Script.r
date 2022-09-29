@@ -12,3 +12,7 @@ Y = rnorm(100)
 
 
 # Important features 
+
+
+
+## An alternative way 
