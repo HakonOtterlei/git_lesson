@@ -3,10 +3,10 @@
 
 
 
-x = rnorm(100)
+x = rnorm(500)
 
 
-Y = rnorm(100)
+Y = rnorm(500)
 
 
 
@@ -15,4 +15,4 @@ Y = rnorm(100)
 
 
 
-## New feature
+## New feature - adding something 
